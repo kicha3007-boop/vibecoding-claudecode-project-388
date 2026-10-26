@@ -1,0 +1,5 @@
+.env
+tracker-data/
+__pycache__/
+*.pyc
+.claude/settings.local.json
