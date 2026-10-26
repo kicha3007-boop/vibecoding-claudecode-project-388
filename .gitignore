@@ -2,4 +2,8 @@
 tracker-data/
 __pycache__/
 *.pyc
+
+# Скиллы, сабагент и .mcp.json — часть проекта (глобальный gitignore их исключает)
+!.claude/
+!.mcp.json
 .claude/settings.local.json
